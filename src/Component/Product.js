@@ -1,4 +1,4 @@
-import ProductInput from "./Productinput"
+import ProductInput from "./ProductInput"
 import ProductList from "./ProductList"
 
 const Product = ({addProduct,deleteProduct,products}) => {
